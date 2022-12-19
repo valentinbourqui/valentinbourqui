@@ -4,7 +4,11 @@ I'm currently frontend dev especially with React with an unconditional passion f
 
 Status about what I'm learning for the frontend, Web3 and Solidity...
 
-2021 :
+2019 - 2021 :
+ - Learning Web3 projects/concepts (DEFI, NFT, Ecosystems, Oracles, play-To-Earn games, main blockchains, etc): ✅
+ - Learning financial graphics and main trading indicators: ✅
+ - Read book - Guide du trading avec Ichimoku - Karen Peloille: ✅
+ - Learning and using Binance API: ✅
  - W3Cx WAI0.1x Introduction to Web Accessibility: ✅
  
 2022: 
