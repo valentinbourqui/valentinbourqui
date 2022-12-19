@@ -12,7 +12,7 @@ Status about what I'm learning for the frontend, Web3 and Solidity...
  - TypeScript for Professionals - 2022 Edition: ✅
  - Reading web3.js doc: ✅
  
- Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - freecodecamp 90%: On going (90%)
+ - Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course - freecodecamp 90%: On going (90%)
  - Read Ethereum doc (Global + developer) : On going (90%)
  - Speedrunethereum Challenge: On going (4/6)
  - Read and understand solidity-by-example: On going (80%)
